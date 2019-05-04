@@ -1,5 +1,4 @@
-{
-    "list": [
+[
         { "ip": "136.144.215.24",  "port": 4101 },
         { "ip": "136.144.170.17", "port": 4101 },
         { "ip": "18.237.239.204", "port": 4101 },
@@ -33,6 +32,4 @@
         { "ip": "159.69.213.75", "port": 4101 },
         { "ip": "159.69.89.109", "port": 4101 },
         { "ip": "159.69.89.111", "port": 4101 }
-    ],
-    "sources": ["https://raw.githubusercontent.com/Qredit/peers/master/mainnet.json"]
-}
+    ]
