@@ -34,5 +34,5 @@
         { "ip": "159.69.89.109", "port": 4101 },
         { "ip": "159.69.89.111", "port": 4101 }
     ],
-    "sources": ["https://raw.githubusercontent.com/Qredit/peers/master/peers.json"]
+    "sources": ["https://raw.githubusercontent.com/Qredit/peers/master/mainnet.json"]
 }
